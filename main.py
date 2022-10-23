@@ -143,6 +143,12 @@ bot.infinity_polling()
 # print(df)
 #
 # connect = sqlite3.connect('bot_db.db')
+
+
+
+
+
+
 # cursor = connect.cursor()
 #
 # create_table = '''CREATE TABLE IF NOT EXISTS bot_table(
