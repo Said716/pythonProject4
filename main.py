@@ -149,6 +149,7 @@ bot.infinity_polling()
 
 
 
+
 # cursor = connect.cursor()
 #
 # create_table = '''CREATE TABLE IF NOT EXISTS bot_table(
