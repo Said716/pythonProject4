@@ -39,7 +39,7 @@ def buy(m):
     print(z)
 
     x = []
-    for j in z:
+    for j in z :
         x.append(j[3])
     if len(x) == 1 :
         prices = [LabeledPrice(label='Working Time Machine', amount=80000)]
