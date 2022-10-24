@@ -51,6 +51,9 @@ def buy(m):
         pay.append(m.text)
     else:
 
+
+
+
         for l in x:
             bot.send_message(m.chat.id,l)
         d = bot.send_message(m.chat.id,'Введите фабрику которую вы хотите')
